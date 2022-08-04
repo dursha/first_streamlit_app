@@ -1,7 +1,10 @@
 import streamlit
 streamlit.title('New Healthy Diner')
-streamlit.header('🥣 🥗 Breakfast Menu 🍞')
-streamlit.text('Idly,Vada')
-streamlit.text('Pongal,Vada')
-streamlit.text('Poori')
-streamlit.text('Dosa')
+streamlit.header('Breakfast Menu')
+streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔 Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞 Avocado Toast')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+
